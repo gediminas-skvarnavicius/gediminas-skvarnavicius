@@ -2,9 +2,7 @@
 # Hi there! 👋 I'm [Gediminas]
 
 ## About Me
-Certainly! Here's a revised version with improved punctuation:
-
-"I am a Chemical Engineering PhD and an aspiring data scientist. After years of research in molecular biophysics, I found a passion for data science and decided to pivot my career towards it to explore new challenges and opportunities."
+I am a Chemical Engineering PhD and an aspiring data scientist. After years of research in molecular biophysics, I found a passion for data science and decided to pivot my career towards it to explore new challenges and opportunities.
 
 ## 🚀 My Journey into Data Science
 - 🔬 **Background:** PhD in Chemical Engineering with a focus on molecular biophysics.
