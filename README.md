@@ -17,7 +17,7 @@ I am a Chemical Engineering PhD and an aspiring data scientist. After years of r
   - 📈 Data Analysis
   - 📊 Interactive Plots With Plotly
 * [European Footbal Dataset Analysis](https://github.com/gediminas-skvarnavicius/football-db-analysis)
-  - 📈 Data Analysis
+  - 📈 Data Analysis and Visualization Matplolib/Seaborn
   - 🗄️ SQL and DuckDB
   - 📐 Statistical Inference and Modeling
 * [Lending Club Data Analysis and ML](https://github.com/gediminas-skvarnavicius/lending-club)
