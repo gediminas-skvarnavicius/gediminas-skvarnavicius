@@ -25,13 +25,13 @@ I am a Chemical Engineering PhD and an aspiring data scientist. After years of r
   - 🐻‍❄️ Working with Larger Data Sets using Polars
   - 🔧 Hyperparameter Tuning Using Ray-tune
   - 🛠️ Custom Transformers and Tools for Machine Learning
-  - ✈️ Model Deployment using FastApi and Pydantic
+  - ✈️ Model Deployment using FastApi, Pydantic and GCP
 * [Home Credit Group Analysis and ML](https://github.com/gediminas-skvarnavicius/home-credit-group-ml)
   - 🤖 Predictive Machine Learning (LGBM, Sklearn)
   - 🐻‍❄️ Feature Generation from a Larger Multi-table data set using Polars
   - 🔧 Hyperparameter Tuning Using Ray-tune
   - 🛠️ Custom Transformers and Tools for Machine Learning
-  - ✈️ Model Deployment using FastApi and Pydantic and Streamlit
+  - ✈️ Model Deployment using FastApi, Pydantic, GCP and Streamlit
 
 ## 📫 How to Reach Me
 - LinkedIn: [Gediminas Skvarnavičius](https://www.linkedin.com/in/gediminas-skvarnavicius-25244457)
