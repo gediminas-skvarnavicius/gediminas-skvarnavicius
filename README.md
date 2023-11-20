@@ -13,23 +13,23 @@ I am a Chemical Engineering PhD and an aspiring data scientist. After years of r
 - 🤖 **Sci-kit learn and polars-compatible toolkit:** Currently working on a library that contains transformers compatible with both the scikit-learn pipeline and polars data frames. These tools will aid in constructing efficient data preprocessing pipelines with the usability of scikit-learn pipelines while maintaining the convenience and efficiency of the polars dataframe format up to the estimator.
 
 ## 📦 Showcase Projects and The Skills They Demonstrate:
-  * [South Korea Covid-19 Analysis](https://github.com/gediminas-skvarnavicius/s-korea-covid-19-analysis)
-    📈 Data Analysis
-    📊 Interactive Plots With Plotly
-  * [European Footbal Dataset Analysis](https://github.com/gediminas-skvarnavicius/football-db-analysis)
-    📈 Data Analysis
-    🗄️ SQL and DuckDB
-    📐 Statistical Inference and Modeling
-  * [Lending Club Data Analysis and ML](https://github.com/gediminas-skvarnavicius/lending-club)
-    🤖 Predictive Machine Learning (LGBM, Sklearn)
-    🐻‍❄️ Working with Larger Data Sets using Polars
-    🔧 Hyperparameter Tuning Using Ray-tune
-    🛠️ Custom Transformers and Tools for Machine Learning
-  * [Home Credit Group Analysis and ML](https://github.com/gediminas-skvarnavicius/home-credit-group-ml)
-    🤖 Predictive Machine Learning (LGBM, Sklearn)
-    🐻‍❄️ Feature Generation from a Larger Multi-table data set using Polars
-    🔧 Hyperparameter Tuning Using Ray-tune
-    🛠️ Custom Transformers and Tools for Machine Learning
+* [South Korea Covid-19 Analysis](https://github.com/gediminas-skvarnavicius/s-korea-covid-19-analysis)
+  - 📈 Data Analysis
+  - 📊 Interactive Plots With Plotly
+* [European Footbal Dataset Analysis](https://github.com/gediminas-skvarnavicius/football-db-analysis)
+  - 📈 Data Analysis
+  - 🗄️ SQL and DuckDB
+  - 📐 Statistical Inference and Modeling
+* [Lending Club Data Analysis and ML](https://github.com/gediminas-skvarnavicius/lending-club)
+   -🤖 Predictive Machine Learning (LGBM, Sklearn)
+  - 🐻‍❄️ Working with Larger Data Sets using Polars
+  - 🔧 Hyperparameter Tuning Using Ray-tune
+  - 🛠️ Custom Transformers and Tools for Machine Learning
+* [Home Credit Group Analysis and ML](https://github.com/gediminas-skvarnavicius/home-credit-group-ml)
+  - 🤖 Predictive Machine Learning (LGBM, Sklearn)
+  - 🐻‍❄️ Feature Generation from a Larger Multi-table data set using Polars
+  - 🔧 Hyperparameter Tuning Using Ray-tune
+  - 🛠️ Custom Transformers and Tools for Machine Learning
 
 
 ## 📫 How to Reach Me
