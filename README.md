@@ -21,7 +21,7 @@ I am a Chemical Engineering PhD and an aspiring data scientist. After years of r
   - 🗄️ SQL and DuckDB
   - 📐 Statistical Inference and Modeling
 * [Lending Club Data Analysis and ML](https://github.com/gediminas-skvarnavicius/lending-club)
-   -🤖 Predictive Machine Learning (LGBM, Sklearn)
+  - 🤖 Predictive Machine Learning (LGBM, Sklearn)
   - 🐻‍❄️ Working with Larger Data Sets using Polars
   - 🔧 Hyperparameter Tuning Using Ray-tune
   - 🛠️ Custom Transformers and Tools for Machine Learning
