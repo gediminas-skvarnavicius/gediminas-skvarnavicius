@@ -7,7 +7,7 @@ I am a Chemical Engineering PhD and an aspiring data scientist. After years of r
 ## 🚀 My Journey into Data Science
 - 🔬 **Background:** PhD in Chemical Engineering with a focus on molecular biophysics.
 - 📈 **Skills:** Expertise in python, and a foundation in Mathematics/Statistics.
-- 📊 **Data Science Transition:** Currently reskilling and upskilling in data science, with a focus on mastering machine learning.
+- 📊 **Data Science Transition:** Currently reskilling and upskilling in data science at [Turing College](https://www.turingcollege.com), with a focus on mastering machine learning.
 
 ## 💻 What I'm Working On
 - 🤖 **Sci-kit learn and polars-compatible toolkit:** Currently working on a library that contains transformers compatible with both the scikit-learn pipeline and polars data frames. These tools will aid in constructing efficient data preprocessing pipelines with the usability of scikit-learn pipelines while maintaining the convenience and efficiency of the polars dataframe format up to the estimator.
