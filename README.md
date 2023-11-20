@@ -16,7 +16,7 @@ Certainly! Here's a revised version with improved punctuation:
 
 ## 📫 How to Reach Me
 - LinkedIn: [Gediminas Skvarnavičius](https://www.linkedin.com/in/gediminas-skvarnavicius-25244457)
-- Email: [gediminas.skvarnavicius@gmail.com](gediminas.skvarnavicius@gmail.com)
+- Email: gediminas.skvarnavicius@gmail.com
 
 Thanks for stopping by! Feel free to explore my repositories and don't hesitate to connect.
 
