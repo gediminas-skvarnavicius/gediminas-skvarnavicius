@@ -1,5 +1,5 @@
 
-# Hi there! 👋 I'm [Gediminas]
+# Hi there! 👋 I'm Gediminas
 
 ## About Me
 I am a Chemical Engineering PhD and an aspiring data scientist. After years of research in molecular biophysics, I found a passion for data science and decided to pivot my career towards it to explore new challenges and opportunities.
