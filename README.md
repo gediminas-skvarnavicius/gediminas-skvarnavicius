@@ -34,7 +34,7 @@ I am a Chemical Engineering PhD and an aspiring data scientist. After years of r
   - ✈️ Model Deployment using FastApi, Pydantic, GCP and Streamlit
 
 ## 📫 How to Reach Me
-- LinkedIn: [Gediminas Skvarnavičius](https://www.linkedin.com/in/gediminas-skvarnavicius-25244457)
+- LinkedIn: [Gediminas Skvarnavičius](https://www.linkedin.com/in/gediminas-skvarnavicius/)
 - Email: gediminas.skvarnavicius@gmail.com
 
 Thanks for stopping by! Feel free to explore my repositories and don't hesitate to connect.
