@@ -34,6 +34,10 @@ I am a Chemical Engineering PhD and an aspiring data scientist. After years of r
   - 🔧 Hyperparameter Tuning Using Ray-tune
   - 🛠️ Custom Transformers and Tools for Machine Learning
   - ✈️ Model Deployment using FastApi, Pydantic, GCP and Streamlit
+* [Mushroom Classifier](https://github.com/gediminas-skvarnavicius/mushroom-classifier)
+  - 🍄 Beginner Computer Vision Deep Learning 
+  - 🔥 Pytorch Lightning
+  - 🎴 Computer Vision DL Model Explanation with LIME
 
 ## 📫 How to Reach Me
 - LinkedIn: [Gediminas Skvarnavičius](https://www.linkedin.com/in/gediminas-skvarnavicius/)
